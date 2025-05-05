@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+*.swp
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Test output
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Packaging
+*.egg
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Pipenv
+Pipfile.lock
+
+# Git itself
+.git/
+
+# Editor backups
+*~
+*.bak
+*.tmp
+*.orig
